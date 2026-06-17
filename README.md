@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Yuvan+Manideep+%F0%9F%91%8B;Full+Stack+Developer;AI+App+Builder;React+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Yuvan+%F0%9F%91%8B;Full+Stack+Developer;AI+App+Builder;React+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yuvan%20Manideep%20Bheemavarapu&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20ANITS&descAlignY=58&descSize=16&fontColor=ffffff" />
 
