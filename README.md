@@ -3,18 +3,18 @@
 <!-- Dynamic Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7CAF7C&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Yuvan+%F0%9F%91%8B;Full+Stack+Developer;AI+App+Builder;React+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Yuvan%20Manideep%20Bheemavarapu&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20ANITS&descAlignY=58&descSize=16&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5A27,50:4A7C35,100:7CAF7C&height=180&section=header&text=Yuvan%20Manideep&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE%20%40%20ANITS&descAlignY=58&descSize=16&fontColor=ffffff" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvanmanideepbheemavarapu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvanmanideep6)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvanmanideep6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://yuvanmanideep6.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7CAF7C?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/yuvanmanideep6)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yuvanmanideep6&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=yuvanmanideep6&color=7CAF7C&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -121,12 +121,12 @@ const yuvan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuvanmanideep6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvanmanideep6&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yuvanmanideep6&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvanmanideep6&layout=compact&theme=merko&hide_border=true" width="40%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=yuvanmanideep6&theme=tokyonight&hide_border=true" width="56%" />
+<img src="https://streak-stats.demolab.com/?user=yuvanmanideep6&theme=merko&hide_border=true" width="56%" />
 
 </div>
 
@@ -179,4 +179,4 @@ const yuvan = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CAF7C,50:4A7C35,100:2D5A27&height=100&section=footer" />
